@@ -1,0 +1,10 @@
+.env
+.venv/
+.vscode/
+.ipynb_checkpoints/
+draft.md
+requirements.txt
+features_*
+notebooks/datasets
+deploy_airflow.sh
+.gitlab/
